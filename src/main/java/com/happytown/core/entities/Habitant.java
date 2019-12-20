@@ -1,4 +1,4 @@
-package com.happytown.domain;
+package com.happytown.core.entities;
 
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 import io.swagger.annotations.ApiModelProperty;
